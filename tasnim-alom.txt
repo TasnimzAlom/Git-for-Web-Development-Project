@@ -1,3 +1,11 @@
+   
+              Code pen link:
+   
+   https://codepen.io/tasnimzalom/pen/bGeROdm?editors=1100
+
+   
+                Questions:   
+   
     1. What is Semantic HTML? 
 HTML with specific meaning.
     2. What is HTML used for? 
@@ -113,4 +121,3 @@ Stretch Questions
     5. In your own words, explain the box model. What is the fix for the box model? 
     -Everything is a box. The core is the content, the padding is the space directly around the content, the margin is the space around the padding, (the width of the perimeter) and the border is the the outer-most part of the box.
 
-   --> 
