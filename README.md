@@ -25,11 +25,20 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 
 ## Task 3: Stretch
 Stretch Review questions: 
-    1. What is the difference between an inline element and a block element?
+    1. What is the difference between an inline element and a block element? 
+    -Inline elements can sit next to other elements and doesnt add a line break, whereas the block element starts a new line and stretches out as far as it can in either direction(left or right).
+
     2. What happens when an element is positioned absolutely? 
+    -when an element is positioned absolutely, its position changes according to the nearest "fmaily-member" element. If there are no parent or grandparents nearby it will adjust to the page.
+
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    -
+
+    4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    -display block: <li> <nav> <p>  -display inline: <a> <span> <i>      -display inline-block:<img>   
+
     5. In your own words, explain the box model. What is the fix for the box model? 
+    Everything is a box. The core is the content, the padding is the space directly around the content, the margin is the space around the padding, (the width of the perimeter) and the border is the the outer-most part of the box.
 Stretch Git Tasks
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
   - [ ] Research and understand what a `merge conflict` is and how to resolve it.
